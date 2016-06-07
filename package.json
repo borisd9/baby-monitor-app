@@ -1,7 +1,7 @@
 {
-  "name": "ionic-project",
+  "name": "baby-monitor-app",
   "version": "1.1.1",
-  "description": "An Ionic project",
+  "description": "Android app for our Baby Monitoring project",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
@@ -30,5 +30,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Boris D",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borisd9/baby-monitor-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/borisd9/baby-monitor-app/issues"
+  },
+  "homepage": "https://github.com/borisd9/baby-monitor-app#readme"
 }
