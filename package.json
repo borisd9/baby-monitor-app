@@ -24,5 +24,11 @@
   ],
   "cordovaPlatforms": [
     "android"
-  ]
+  ],
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris D",
+  "license": "ISC"
 }
